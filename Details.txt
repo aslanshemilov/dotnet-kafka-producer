@@ -1,0 +1,38 @@
+﻿
+
+mkdir <project-folder>
+cd <project-folder>
+
+dotnet new console
+dotnet build
+dotnet run
+
+dotnet tool install --global Confluent.Apache.Avro.AvroGen --version 1.7.7.5
+λ avrogen.exe
+Usage:
+avrogen -p <protocolfile> <outputdir>
+avrogen -s <schemafile> <outputdir>
+
+λ avrogen.exe -s avro\user2.avsc ./
+Exception occurred. Namespace required for record schema user2
+
+λ avrogen.exe -s avro\user2.avsc ./
+
+λ dotnet build --configuration Release
+
+dotnet nuget pudh -s http://localhost:5555/v3/index.json
+
+
+
+//References
+https://github.com/confluentinc/confluent-kafka-dotnet/issues/955
+https://docs.confluent.io/platform/current/schema-registry/develop/using.html
+https://docs.confluent.io/platform/current/installation/installing_cp/zip-tar.html#prod-kafka-cli-install
+https://github.com/aslanshemilov/schema-registry
+https://kafka.apache.org/quickstart
+https://dzone.com/articles/running-apache-kafka-on-windows-os
+https://www.goavega.com/install-apache-kafka-on-windows/
+https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-windows/
+https://examples.javacodegeeks.com/how-to-download-and-install-apache-kafka-on-windows/
+https://docs.confluent.io/platform/current/schema-registry/connect.html cert for schema
+https://docs.confluent.io/platform/current/schema-registry/develop/api.html postman

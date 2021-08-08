@@ -1,0 +1,12 @@
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\bin\Release\netcoreapp2.1\dotnet-kafka-producer.deps.json
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\bin\Release\netcoreapp2.1\dotnet-kafka-producer.runtimeconfig.json
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\bin\Release\netcoreapp2.1\dotnet-kafka-producer.runtimeconfig.dev.json
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\bin\Release\netcoreapp2.1\dotnet-kafka-producer.dll
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\bin\Release\netcoreapp2.1\dotnet-kafka-producer.pdb
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\obj\Release\netcoreapp2.1\dotnet-kafka-producer.csprojAssemblyReference.cache
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\obj\Release\netcoreapp2.1\dotnet-kafka-producer.AssemblyInfoInputs.cache
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\obj\Release\netcoreapp2.1\dotnet-kafka-producer.AssemblyInfo.cs
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\obj\Release\netcoreapp2.1\dotnet-kafka-producer.csproj.CoreCompileInputs.cache
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\obj\Release\netcoreapp2.1\dotnet-kafka-producer.dll
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\obj\Release\netcoreapp2.1\dotnet-kafka-producer.pdb
+C:\Users\Officeroom\VSCodeProjects\dotnet-kafka-producer\obj\Release\netcoreapp2.1\dotnet-kafka-producer.genruntimeconfig.cache

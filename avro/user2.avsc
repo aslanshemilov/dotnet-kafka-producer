@@ -1,0 +1,17 @@
+﻿{
+
+  "namespace": "Model.avro",
+  "type": "record",
+  "name": "User2",
+  "fields": [
+    {
+      "name": "firstname",
+      "type": "string"
+    },
+    {
+      "name": "lastname",
+      "type": "string"
+    }
+  ]
+
+}
